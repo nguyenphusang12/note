@@ -7,4 +7,13 @@
 
         }
     ]
-    
+    install package ubuntu: 
+    - Flameshot
+    - workbench
+    - kazam 
+    - vscode 
+    - nodejs
+    - npm
+    - docker
+    - git
+    - config git ssh
